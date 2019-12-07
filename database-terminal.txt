@@ -1,0 +1,1 @@
+/Users/eleme/MongoDB/bin/mongod.exe --dbpath=/Users/eleme/Mongo-data
